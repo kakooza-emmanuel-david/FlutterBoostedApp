@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450814993852",
+    "project_id": "david-5723b",
+    "storage_bucket": "david-5723b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450814993852:android:42c29a6774e5b4de9737b9",
+        "android_client_info": {
+          "package_name": "com.example.david"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450814993852-ni6lqc7vtngp2cpgt56djet8lsb8fckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDobO2_28b-QQIeepASYMhNK0tklLtNt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450814993852-ni6lqc7vtngp2cpgt56djet8lsb8fckh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
